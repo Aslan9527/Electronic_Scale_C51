@@ -1,0 +1,13 @@
+
+   HX711模块加载HX711.hex
+   单片机加载    main.hex
+
+如果自己没有仿真软件，请下载下面软件进行安装。
+
+
+Proteus 8.4版本  软件:
+
+链接：http://pan.baidu.com/s/1skACNQt 密码：qymk
+
+
+  
